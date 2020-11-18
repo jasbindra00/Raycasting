@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Line.h">
+    <ClInclude Include="..\..\..\Documents\Programming\Projects\C++\GitHub\Raycasting\Raycasting simulation\HSV.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
